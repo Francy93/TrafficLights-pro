@@ -1,5 +1,5 @@
 **INDEX**
-![alt text](Presentation/Images/Documentation-page-001jpg "Main page")
+![alt text](Presentation/Images/Documentation-page-001.jpg "Main page")
 
 1. SOB     6: Engage in discussions (face to face or online) on a technical subject, raising questions, offering solutions and summarising issues.
 
