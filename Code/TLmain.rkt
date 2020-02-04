@@ -79,10 +79,10 @@
 
 ; --------------------------------------------------------------------------------------- COMMON VARIABLES
 
-(define transSleep    4  ) ;CUSTOMIZABLE seconds leasting of yellow lights
-(define standardSleep 10 ) ;CUSTOMIZABLE seconds leasting of standard lights
-(define pedSleep      7  ) ;CUSTOMIZABLE seconds leasting of pedestrian lights
-(define bufferSleep   3  ) ;CUSTOMIZABLE seconds leasting of buffer/red lights
+(define transSleep    4  ) ;CUSTOMIZABLE duration in seconds of yellow lights
+(define standardSleep 10 ) ;CUSTOMIZABLE duration in seconds of standard lights
+(define pedSleep      7  ) ;CUSTOMIZABLE duration in seconds of pedestrian lights
+(define bufferSleep   3  ) ;CUSTOMIZABLE duration in seconds of buffer/red lights
 (define brightTrigger 990)
 
 (define button        0  ) ;the button value will be setted here by a function "(buttonCall)" that retrives it from the input pin of arduino
